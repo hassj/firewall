@@ -1,8 +1,7 @@
 Troubleshooting
 1) High CPU load
 - checking process which are using high resource with command:
-`inline code` top -aSH
-
+> top -aSH
 
 
 
