@@ -1,0 +1,10 @@
+Troubleshooting
+1) High CPU load
+- checking process which are using high resource with command:
+`inline code` top -aSH
+
+
+
+
+Refferral links:
+https://docs.netgate.com/pfsense/en/latest/troubleshooting/high-cpu-load.html
